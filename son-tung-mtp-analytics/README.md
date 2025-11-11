@@ -268,15 +268,6 @@ Trong quá trình xây dựng dự án, mình tham khảo và sử dụng các t
 - **Power BI Documentation**  
   [https://learn.microsoft.com/power-bi](https://learn.microsoft.com/power-bi)
 
----
 
-## 📜 License
 
-[MIT](/LICENSE)
 
----
-
-## 📬 Liên hệ
-
-Được thực hiện bởi `@tunguyenn99` Xóm Data.  
-👉 Tham gia tại: [facebook.com/groups/xomdata](https://facebook.com/groups/xomdata)
